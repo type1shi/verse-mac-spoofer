@@ -1,0 +1,8 @@
+﻿  Perm Mac replica.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(4672,18): warning C4244: '=': conversion from 'const wchar_t' to 'char', possible loss of data
+  Generating code
+  200 of 965 functions (20.7%) were compiled, the rest were copied from previous compilation.
+    88 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Perm Mac replica.vcxproj -> C:\Users\Cap\source\repos\MAC Checker& Spoofer\Perm Mac replica\x64\Release\Perm Mac replica.exe
